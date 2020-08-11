@@ -1,5 +1,8 @@
 ## Meal Finder App
-Search and generate random meals from the [themealdb.com](www.themealdb.com) API
+Search and generate random meals from the API(www.themealdb.com)
+
+## Live Preview
+https://milano-patel.github.io/meal-finder/
 
 ## Project Specifications
 - Display UI with form to search and button to generate
